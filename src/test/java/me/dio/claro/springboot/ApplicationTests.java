@@ -1,4 +1,4 @@
-package me.dio.claro.springboot._4;
+package me.dio.claro.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
